@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/jonperkins1/friend-finder.git"
 	},
-	"homepage": "https://github.com/jonperkins1/friend-finder#readme",
+	"homepage": "https://github.com/jonperkins1/friend-finder/home.html",
 	"dependencies": {
 		"body-parser": "^1.17.1",
 		"express": "^4.15.2"
